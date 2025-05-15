@@ -1,4 +1,3 @@
-# Acciojob Assignment Solution Template Repo
+Template
 
-# Instructions  
 
